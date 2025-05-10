@@ -4,6 +4,5 @@ I developed a comprehensive project in excel, creating multiple dashboard Pages 
 ## Project Objectives
 This sales report is prepared and analyzed to help stakeholders (Owners/entities) understand the sales performance by product, customer, and location, and to make business decisions based on the insights.
 
-## Dataset used
-        -      <  a   href= ""> Dataset<  /  a >
+
   
