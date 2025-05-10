@@ -1,4 +1,4 @@
-# Excel Project on Superstore Sales Analysis
+#  Superstore Sales Analysis
 I developed a comprehensive project in excel, creating multiple dashboard Pages to analyse the super-store sales dataset. This analysis  involves some stages : data cleaning, data processing and data visualization.
 
 ## Project Objectives
