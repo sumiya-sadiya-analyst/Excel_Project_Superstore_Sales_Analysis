@@ -6,7 +6,7 @@ This sales report is prepared and analyzed to help stakeholders (Owners/entities
 ## Dataset 
 - 9426 Rows with
 - 28 Columns
-![Dataset](https://github.com/user-attachments/assets/4a5aad9f-1641-40cf-8b3f-734277d57608)
+
 
 # Dashboards
  ### KPI and Trendline Dashboard
