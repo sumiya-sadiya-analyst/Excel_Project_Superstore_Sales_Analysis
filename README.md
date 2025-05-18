@@ -1,13 +1,13 @@
 #  Superstore Sales Analysis
 I developed a comprehensive project in excel, creating multiple dashboard Pages to analyse the super-store sales dataset. This analysis  involves some stages : data cleaning, data processing and data visualization.
 
-## Project Objectives
-This sales report is prepared and analyzed to help stakeholders (Owners/entities) understand the sales performance by product, customer, and location, and to make business decisions based on the insights.
 ## Dataset 
 - 9426 Rows with
 - 28 Columns
+https://github.com/user-attachments/assets/0d671b58-fccd-4780-acef-d38452c6ccd7
 
-
+## Project Objectives
+This sales report is prepared and analyzed to help stakeholders (Owners/entities) understand the sales performance by product, customer, and location, and to make business decisions based on the insights.
 # Dashboards
  ### KPI and Trendline Dashboard
  ![KPI and Trendline Dashboard](https://github.com/user-attachments/assets/4aaff375-da28-4fcb-9aac-2e3d8b987226)
