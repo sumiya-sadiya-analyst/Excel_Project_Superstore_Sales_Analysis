@@ -1,9 +1,7 @@
 #  Superstore Sales Analysis
 I developed a comprehensive project in excel, creating multiple dashboard Pages to analyse the super-store sales dataset. This analysis  involves some stages : data cleaning, data processing and data visualization.
 
-## Dataset 
-- 9426 Rows with
-- 28 Columns
+## Dataset - 9426 Rows with 28 Columns
 https://github.com/user-attachments/assets/0d671b58-fccd-4780-acef-d38452c6ccd7
 
 ## Project Objectives
